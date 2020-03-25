@@ -1,0 +1,19 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "A Bot Made From Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InsidersSoftware/discord-bot.git"
+  },
+  "author": "InsiderJanggo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InsidersSoftware/discord-bot/issues"
+  },
+  "homepage": "https://github.com/InsidersSoftware/discord-bot#readme"
+}
