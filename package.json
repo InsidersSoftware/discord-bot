@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/InsidersSoftware/discord-bot/issues"
   },
-  "homepage": "https://github.com/InsidersSoftware/discord-bot#readme"
+  "homepage": "https://github.com/InsidersSoftware/discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.0.2"
+  }
 }
