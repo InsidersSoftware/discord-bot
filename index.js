@@ -1,7 +1,8 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
 
-const token = 'NjkyMzcxMzM1NDcyNjExMzk5.Xntjbw.NOny5IIsg90CmgwAWDiKbWVwu_E';
+//Just Change The Token Variable
+const token = '';
 
 //Check if the bot is online/ready.
 bot.on('ready', () => {
@@ -14,5 +15,5 @@ bot.on('message', msg=> {
     }
 })
 
-//Login To The Bot Control Panl
+//Login To The Bot Control Panel
 bot.login(token);
