@@ -1,6 +1,6 @@
 # discord-bot
 It An Open Source Sample Code For Making Discord Bot
-to make the bot online use node . command.
+
 
 ### Add My Bot Now:
 https://discordapp.com/oauth2/authorize?client_id=692371335472611399&scope=bot&permissions=2146958847
@@ -17,3 +17,5 @@ https://discordapp.com/oauth2/authorize?client_id=692371335472611399&scope=bot&p
 ##### to install used node.js: npm install discord.js --save in the terminal or cmd
 
 #### Docs:https://discord.js.org/#/docs/main/stable/general/welcome
+
+###### to make the bot online use node . command.
