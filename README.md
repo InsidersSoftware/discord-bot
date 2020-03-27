@@ -12,4 +12,8 @@ https://discordapp.com/oauth2/authorize?client_id=692371335472611399&scope=bot&p
 ##### https://nodejs.org/en/
 #### discord.js
 ##### https://discord.js.org/
+#### discord Permissions Calculator
+##### https://discordapi.com/permissions.html
 ##### to install used node.js: npm install discord.js --save in the terminal or cmd
+
+#### Docs:https://discord.js.org/#/docs/main/stable/general/welcome
