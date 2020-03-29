@@ -15,6 +15,8 @@ https://discordapp.com/oauth2/authorize?client_id=692371335472611399&scope=bot&p
 #### discord Permissions Calculator
 ##### https://discordapi.com/permissions.html
 ##### to install used node.js: npm install discord.js --save in the terminal or cmd
+#### Discord Developer:(For Making The Bot)
+##### https://discordapp.com/developers/applications/
 
 #### Docs:https://discord.js.org/#/docs/main/stable/general/welcome
 
