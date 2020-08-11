@@ -16,7 +16,7 @@ It An Open Source Sample Code For Making Discord Bot
 ##### https://discord.js.org/
 #### discord Permissions Calculator
 ##### https://discordapi.com/permissions.html
-##### to install used node.js: npm install discord.js --save in the terminal or cmd
+##### to install used node.js: npm install in the terminal or cmd
 #### Discord Developer:(For Making The Bot)
 ##### https://discordapp.com/developers/applications/
 
